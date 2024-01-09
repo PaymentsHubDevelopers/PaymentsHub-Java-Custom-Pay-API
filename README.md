@@ -1,6 +1,6 @@
 # Securely Embed Payments in a Java App
 
-This is a Java application that uses the React framework to demonstrate an ecommerce payment solution using <a href='https://developer.paymentshub.com/products/full-featured/custom-pay-api' target='_blank'>Payments Hub's Custom Pay API</a>. The code in this repository handles the back-end payment process for a simple payment form on a website. The code that handles front-end part of the payment process is located in a separate repository, allowing each to be deployed separately.
+This is a Java application that uses the React framework to demonstrate an ecommerce payment solution using <a href='https://developer.paymentshub.com/products/full-featured/custom-pay-api' target='_blank'>Payments Hub's Custom Pay API</a>. The code in this repository handles the back-end payment process for a simple payment form on a website. The code that handles front-end part of the payment process is located in a <a href='https://github.com/PaymentsHubDevelopers/PaymentsHub-React-Custom-Pay-API'>separate repository</a>, allowing each to be deployed separately.
 
 ## Get Sandbox Credentials
 
