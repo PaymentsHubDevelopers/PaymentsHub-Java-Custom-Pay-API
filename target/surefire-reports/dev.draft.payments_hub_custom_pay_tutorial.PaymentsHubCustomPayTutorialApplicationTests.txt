@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.draft.payments_hub_custom_pay_tutorial.PaymentsHubCustomPayTutorialApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.991 s - in dev.draft.payments_hub_custom_pay_tutorial.PaymentsHubCustomPayTutorialApplicationTests
